@@ -13,7 +13,7 @@ Application of neural networks for time series
 Application of neural networks for financial data 
 
 ### HW4
-Recurrent neural networks & long short-term memory (LSTM) networks with applications to financial time series	Dixon et al.: Chapter 8.2-8.4
+Recurrent neural networks & long short-term memory (LSTM) networks
 
 Application of neural networks for time series
 
